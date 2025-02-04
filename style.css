@@ -20,7 +20,7 @@ body {
 
 .container {
   background: #fff;
-  padding: 30px;
+  padding: 10px;
 }
 
 .container h2 {
@@ -52,7 +52,7 @@ button {
   margin-top: 40px;
   border: 2px solid var(--main-color);
   width: 155px;
-  height: 50px;
+  height: 20px;
   text-align: center;
   background-color: var(--main-color);
   color: white;
